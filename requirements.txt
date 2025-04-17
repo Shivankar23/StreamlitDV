@@ -30,7 +30,7 @@ streamlit-extras
 streamlit-card
 decorator
 deprecation
-numeriz==0.12
+numerize==0.12
 numpy
 oauthlib
 openpyxl
